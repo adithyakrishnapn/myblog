@@ -117,7 +117,7 @@ body{
     width: 100%;
 }
 .pop{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: 18px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: 17px;
 }
 
 .footer{
@@ -147,4 +147,7 @@ body{
 .bc:hover{
     background-color: rgb(64, 238, 20);
     color: rgb(0, 0, 0);
+}
+.hazard{
+    border: 2px white solid;
 }

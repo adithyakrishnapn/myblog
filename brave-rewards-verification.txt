@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: onewhoexist.online
+Token: 4132533208b1ed7ac89133bf471fb7c750d760cc91a5610e5ff9135100bdf1c8

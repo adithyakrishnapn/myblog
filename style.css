@@ -151,3 +151,10 @@ body{
 .hazard{
     border: 2px white solid;
 }
+
+@media  and (max=width: 425px) {
+    .rightsection{
+        overflow-y: scroll;
+    }
+    
+}
